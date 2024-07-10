@@ -263,14 +263,19 @@ footer {
     padding: 20px;
     background-color: #f9f9f9;
 }
+.last{
+    display: flex;
+    justify-content: space-around;
+}
 
 footer p {
     margin: 0;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .social-links {
     margin-top: 10px;
+     
 }
 
 .social-links a {
@@ -278,6 +283,7 @@ footer p {
 }
 
 .social-links img {
+   
     width: 24px;
     height: 24px;
 }
