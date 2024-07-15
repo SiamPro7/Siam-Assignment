@@ -22,7 +22,7 @@
 }
 /* ------------Section part-1 style----------------- */
 .hero {
-  background-image: url(../assets/Hero-bg.png);
+  background-image: url(./assets/Hero-bg.png);
   margin-top: auto;
 }
 .avatar {
@@ -198,7 +198,7 @@ footer{   font-family: Arial, sans-serif;}
 
 
 .support-section {
-    background-image: url('../assets/handshake.jpg');
+    background-image: url('./assets/handshake.jpg');
     background-size: cover;
     background-position: center;
     color: white;
